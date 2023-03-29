@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QamarSandhu
-- 👀 I’m interested in backend development with new technologies
-- 🌱 I’m currently working on node js,expressjs,mongoose,sequelize
-- 📫 You can contact me using email qamarpixes111@gmail.com
+- 👀 I’m interested in web development with new technologies
+- 🌱 I’m currently working as MERN stack developer.
+- 📫 You can contact me using email qamarshahzad4154@gmail.com
 
 <!---
 QamarSandhu/QamarSandhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
