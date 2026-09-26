@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @QamarSandhu
+- 👋 Hi, I’m Qamar Shahzad
 - 👀 I’m interested in web development with new technologies
-- 🌱 I’m currently working as MERN stack developer.
-- 📫 You can contact me using email qamarshahzad4154@gmail.com
+- 🌱 I’m currently working as Sr. Backend developer.
+- 📫 You can contact me using email qamarshahzad1408@gmail.com
 
 <!---
 QamarSandhu/QamarSandhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
